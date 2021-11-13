@@ -1,0 +1,8 @@
+-classpath 'F:\\CS350\\books\\build\\classes\\java\\main;F:\\CS350\\books\\build\\resources\\main'
+-d 'F:\\CS350\\books\\build\\docs\\javadoc'
+-doctitle 'books API'
+-notimestamp 
+-quiet 
+-windowtitle 'books API'
+'F:\\CS350\\books\\src\\main\\java\\Author.java'
+'F:\\CS350\\books\\src\\main\\java\\Vocabulary.java'
