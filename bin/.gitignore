@@ -1,1 +1,8 @@
 /build/
+/.gradle/
+/.gitignore
+/.project
+/build.gradle
+/docs/
+/index.md
+/reports/
